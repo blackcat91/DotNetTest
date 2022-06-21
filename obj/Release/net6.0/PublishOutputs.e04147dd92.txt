@@ -1,0 +1,15 @@
+/workspaces/DotNetTest/bin/Release/net6.0/publish/RestTest
+/workspaces/DotNetTest/bin/Release/net6.0/publish/appsettings.Development.json
+/workspaces/DotNetTest/bin/Release/net6.0/publish/appsettings.json
+/workspaces/DotNetTest/bin/Release/net6.0/publish/RestTest.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/RestTest.runtimeconfig.json
+/workspaces/DotNetTest/bin/Release/net6.0/publish/RestTest.pdb
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Microsoft.EntityFrameworkCore.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Microsoft.EntityFrameworkCore.Abstractions.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Microsoft.EntityFrameworkCore.InMemory.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Microsoft.Extensions.Caching.Memory.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/DotNetTest/bin/Release/net6.0/publish/RestTest.deps.json

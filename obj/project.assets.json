@@ -903,28 +903,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\brand\\.nuget\\packages\\": {}
+    "/var/nuget": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brand\\source\\repos\\RestTestSol\\RestTest\\RestTest.csproj",
+      "projectUniqueName": "/workspaces/DotNetTest/RestTest.csproj",
       "projectName": "RestTest",
-      "projectPath": "C:\\Users\\brand\\source\\repos\\RestTestSol\\RestTest\\RestTest.csproj",
-      "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brand\\source\\repos\\RestTestSol\\RestTest\\obj\\",
+      "projectPath": "/workspaces/DotNetTest/RestTest.csproj",
+      "packagesPath": "/var/nuget",
+      "outputPath": "/workspaces/DotNetTest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.org": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -979,7 +976,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/dotnet/6.0.300/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }
